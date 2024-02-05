@@ -3,7 +3,6 @@
 namespace ProcessPool\Events;
 
 use Exception;
-use Symfony\Component\Process\Process;
 
 class ProcessFinished extends ProcessEvent
 {
